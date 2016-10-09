@@ -381,3 +381,8 @@ Seznámení a první kroky v linuxovém operačním systému Fedora
 * Aktuálně u: @jerryfox (do října 2015, Praha)
 
 [lightweight-django]: http://shop.oreilly.com/product/0636920032502.do
+
+
+### Michail Kargakis: [The best text-mode game of all time in 25 steps](https://github.com/gothyra/thyra) (to be written)
+* Majitel: @kargakis
+* Aktuálně u: @kargakis
